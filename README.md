@@ -1,6 +1,6 @@
-# Brain Tumor Detection
+# Brain Tumor Detection Using TinyVGG
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuluW8071/Brain-Tumor-Detection/blob/main/model.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuluW8071/Brain-Tumor-Detection/blob/main/Brain_Tumor_Detection.ipynb) 
 <br>
 
 ---
