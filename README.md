@@ -1,4 +1,7 @@
-# Brain Tumor Detection Using TinyVGG
+# Brain Tumor Detection Using VGG
+
+#### [Download Datasets](https://drive.google.com/file/d/1YM2PalzV_zqtxfbZNutvRkXgIrxtvoyb/view?usp=drive_link)
+_Note: Datasets are directly downloaded when running the notebook_
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LuluW8071/Brain-Tumor-Detection/blob/main/Brain_Tumor_Detection.ipynb) 
 <br>
